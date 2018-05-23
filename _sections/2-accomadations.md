@@ -2,7 +2,6 @@
 layout: default
 images:
  - flamingo.gif
-category: Services
 title: Accommodations
 description: |
 ---

@@ -1,6 +1,7 @@
-<section id="info">
 <!-- Page Content -->
 {% for post in site.sections %}
+<section id="{{post.title | split: ' ' | first | downcase}}">
+
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div class="content-section-a">
@@ -50,5 +51,6 @@
     </div>
     <!-- /.content-section-b -->
     {% endif %}
-{% endfor %}
 </section>
+
+{% endfor %}

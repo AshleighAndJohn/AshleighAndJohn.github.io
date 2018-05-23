@@ -2,7 +2,6 @@
 layout: default
 images:
  - home_map.png
-category: Services
 title: Transportation and Parking
 description: |
 ---

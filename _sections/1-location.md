@@ -1,9 +1,7 @@
 ---
 layout: default
-img: corona.jpg
 images: 
  - corona.jpg
-category: Services
 title: Location and schedule
 description:
 ---
