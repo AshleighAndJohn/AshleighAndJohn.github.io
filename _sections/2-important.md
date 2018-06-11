@@ -1,7 +1,7 @@
 ---
 layout: default
 images: 
- - corona.jpg
+ - rainier.jpg
 title: Important to know - Attire and Ablutions
 description:
 ---
@@ -19,5 +19,5 @@ Rule number one is that you wear whatever will make you comfortable. That said, 
    * No matter how hot it was during the day
    * Please bring layers, especially if you plan to stay late
 
-#### There wil probably be mosquitos at/after sunset
+#### There will probably be mosquitos at/after sunset
  * We'll do as much as we can to mitigate this, but if you plan to stay late please bring layers

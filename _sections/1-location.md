@@ -8,11 +8,7 @@ description:
 
 It's all happening at the **[Baumgardner Family Dairy](https://goo.gl/maps/ZwSE8vCwEVJ2)**
 
-`21760 Francis Lane, Mount Vernon, WA 98273`
-
-### Friday, August 17th
-TODO rehearsal plan? Maybe dinner at the cabin? Might be too tricky depending on how far along the kitchen there is.
-- 4:00 pm Rehearsal dinner at the cabin
+[`21760 Francis Lane, Mount Vernon, WA 98273`](https://goo.gl/maps/dcrm1AZudLK2)
 
 ### Saturday, August 18th
 - 4:00 pm Guests start arriving
@@ -23,7 +19,6 @@ TODO rehearsal plan? Maybe dinner at the cabin? Might be too tricky depending on
 - 9:00 pm Firepits, marshmallows, fireworks, more dancing
 
 ### Sunday, August 19th
-*Brunch at the farm*
+*Camping brunch cook out*
 
-- 9:30 am Brunch making crew assemble!
-- ~1:00 pm Brunch wraps up. Time to sleep :)
+This will be a very casual meal for the folks who slept over or who live in the area. Think of it as a decentralized, asynchronous, re-fueling opportunity.
