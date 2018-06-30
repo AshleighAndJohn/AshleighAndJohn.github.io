@@ -1,7 +1,7 @@
 ---
 layout: default
 images:
- - flamingo.gif
+ - john_cooking.jpg
 title: Accommodations
 description: |
 ---
