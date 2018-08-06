@@ -11,12 +11,12 @@ It's all happening at the **[Baumgardner Family Dairy](https://goo.gl/maps/ZwSE8
 [`21760 Francis Lane, Mount Vernon, WA 98273`](https://goo.gl/maps/dcrm1AZudLK2)
 
 ### Saturday, August 18th
-- 4:00 pm Guests start arriving
-- **5:00 pm Ceremony**
-- 5:30 pm Bouncy house interlude
-- 6:00 pm Dinner and cake
-- 7:30 pm Music and dancing
-- 9:00 pm Firepits, marshmallows, fireworks, more dancing
+- 5:00 pm Guests start arriving
+- **6:00 pm Ceremony**
+- 6:30 pm Bouncy house interlude
+- 6:45 pm Dinner (taco bar, whole roast pig, chicken, veggies, hopefully something for everyone!)
+- 7:45 pm Cake and dancing
+- 9:00 pm Firepits, marshmallows, more dancing into the night
 
 ### Sunday, August 19th
 *Camping brunch cook out*
