@@ -30,6 +30,6 @@ Brunch preparations will likely not commence until after 10am, if you need to be
 
 **What we'll have:** Vegan (highly glutinous, sorry) pancakes, bacon, coffee, blackberries
 
-**What we need:** If you can bring a coffee maker or an electric griddle let us know (we have one 12-cup coffee maker and two electric griddles, so more would be good)
+**What we need:** If you can bring a coffee maker or an electric griddle let us know (we have two 12-cup coffee makers and two electric griddles, but more would be good)
 
 **What you can bring:** juice (or other breakfast drink you like), fruit, gluten-free baked goods, eggs if you have a way to cook them (we know it's a popular breakfast food, but they are also death to John).
